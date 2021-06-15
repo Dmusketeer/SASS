@@ -1,0 +1,16 @@
+/* reset.scss property */
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial helvetica, sans-serif;
+  background-color: #dda9a9;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
