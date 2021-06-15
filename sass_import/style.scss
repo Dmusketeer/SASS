@@ -1,0 +1,10 @@
+@import "reset"; // reset.scss is imported here ;
+$ff:Arial helvetica, sans-serif;
+$backcolor: rgb(221, 169, 169);
+$fs:18px;
+
+body{
+  font-family:$ff;
+  background-color:$backcolor;
+  font-size:$fs;
+}
