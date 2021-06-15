@@ -1,0 +1,21 @@
+
+//  variables
+$ff:Arial helvetica,sans-serif;
+$backgroundColor: #e79a9a;
+$width:680px;
+$color:mediumseegreen;
+$fs:18px;
+$margin:200px;
+$borderRadius:10px;
+$padding:30px;
+
+.container{
+    background-color:$backgroundColor;
+    padding:$padding;
+    font-family: $ff;
+    width:$width;
+    color:$color;
+    font-size:$fs;
+    margin:$margin;
+    border-radius: $borderRadius;
+}
